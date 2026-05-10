@@ -1,2 +1,2 @@
 # ybs-makine-ogrenmesi
-BANÜ YBS 3. Sınıf Bahar Dönemi Makine Öğrenimi Dersi Deposu
+BANÜ YBS 3rd Grade Spring Semester Machine Learning Course Repository
